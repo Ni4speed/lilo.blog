@@ -9,7 +9,7 @@ Ein Besuch beim Kieferorthopäden gehört für viele Jugendliche und Kinder zum 
 
 <!--StartFragment-->
 
-{{<box title="Ausklappbare Box">}}
+{{<box title="Infobox Kieferorthopädie">}}
 
 <!--EndFragment-->
 
@@ -19,15 +19,14 @@ Die Kieferorthopädie ist ein Teilgebiet der Zahnmedizin, welches sich mit Zahn 
 
 `{{</box>}}`
 
-
-
 <!--EndFragment-->
 
-Ist ein Überbiss oder eine andere Fehlstellung eine Krankheit? Inwiefern hat ein kieferorthopädischer Eingriff einen medizinischen Nutzen und inwiefern ist es ein schönheitsoptimierender Eingriff?
+### Ist ein Überbiss oder eine andere Fehlstellung eine Krankheit? Inwiefern hat ein kieferorthopädischer Eingriff einen medizinischen Nutzen und inwiefern ist es ein schönheitsoptimierender Eingriff?
 
 Die Kieferorthopädie kann auf jeden Fall von medizinischem Nutzen sein. Vor allem bei gröberen Fällen, bei denen schwerwiegende Kiefer und Zahnfehlstellungen vorliegen, kann die Rede- oder Beissfunktion darunter leiden. Aber auch Zahnfehlstellungen im kleinen Ausmass sollten laut Zahnärzten zu Einschränkungen führen. So sei das Risiko für Karies und Paradontitis deutlich erhöht. Doch ist der medizinische Nutzen wirklich belegt?
 
-Medizinischer Nutzen 
+### Medizinischer Nutzen 
+
 Anhand von aktuellen Studien aus der Kieferorthopädie, lassen sich in vielen Fällen keine gesundheitlichen oder essenziellen funktionellen Beeinträchtigungen und Risiken abweichender Zahnstellungen nachweisen. Das IGES-Institut im Auftrag des deutschen Bundesministeriums für Gesundheit hat eine Studie mit folgender Aussage veröffentlicht: Es gibt keine signifikanten Unterschiede im Vergleich zur Nichtbehandlung. Das heisst dass Zähne nach einer Korrektur vielleicht gerader und Zahnlücken geschlossen sind. Die Zähne jedoch nicht länger halten oder das Zahnfleisch besser geschützt ist. Diese Aussage zeigt auf, dass keine spezifischen Beweise zum Nutzen der Kieferorthopädie vorliegen. Jan Danz, Kursverantwortlicher der Gesellschaft für Kieferorthopädie und Leiter der Studierendenausbilder an der Uni Bern, zeigt uns in einem Interview für den Bund die Häufigkeit eines medizinischen Nutzens bei einer Gebisskorrektur auf: «Medizinisch notwendig im Sinne einer Abweichung von der Norm mit Schädigung aufgrund einer definierten Ursache ist eine Behandlung bei wahrscheinlich etwa 10 Prozent der Kinder». Hier werden klar nur auf die Kinder Bezug genommen. Jedoch sind es die Kinder, die noch am grössten Veränderungen im Gebiss auf sich nehmen müssen. So wird mit dieser Aussage nochmal aufgeführt, wie klein der Teil ist, der wirklich einen medizinischen Nutzen daraus zieht. Doch vielleicht reicht der ästhetische Nutzen schon als Begründung für die Notwendigkeit der Kieferorthopädie. Denn: «Ein schönes Lächeln macht erfolgreich».
 
 Unser Lachen ist ein Teil unseres Aussehens und spielt eine zentrale Rolle bei der Vermittlung von Gefühlen. Die Zähne stehen ständig im Fokus und sind stark mit Schönheitsidealen verknüpft. So werden Menschen mit geraden, weissen Zähnen als kompetenter, intelligenter und psychisch stabiler wahrgenommen als Menschen mit weniger schönen Zähnen. Besonders wichtig ist das bei Jobs mit viel Kundenkontakt oder beispielsweise bei Führungspositionen wie Managern und CEO’s. Aber auch bei der Partnersuche ist ein schönes Gebiss unabdingbar. 
